@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\04. Hello C Sharp\bin\Debug\_04.Hello_C_Sharp.exe.config
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\04. Hello C Sharp\bin\Debug\_04.Hello_C_Sharp.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\04. Hello C Sharp\bin\Debug\_04.Hello_C_Sharp.pdb
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\04. Hello C Sharp\obj\Debug\04. Hello C Sharp.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\04. Hello C Sharp\obj\Debug\_04.Hello_C_Sharp.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\04. Hello C Sharp\obj\Debug\_04.Hello_C_Sharp.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\13. Check Bit At Position\bin\Debug\_13.Check_Bit_At_Position.exe.config
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\13. Check Bit At Position\bin\Debug\_13.Check_Bit_At_Position.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\13. Check Bit At Position\bin\Debug\_13.Check_Bit_At_Position.pdb
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\13. Check Bit At Position\obj\Debug\_13.Check_Bit_At_Position.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\13. Check Bit At Position\obj\Debug\_13.Check_Bit_At_Position.pdb

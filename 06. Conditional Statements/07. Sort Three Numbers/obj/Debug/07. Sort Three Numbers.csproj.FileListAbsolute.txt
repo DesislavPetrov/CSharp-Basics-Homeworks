@@ -1,0 +1,2 @@
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\07. Sort Three Numbers\bin\Debug\_07.Sort_Three_Numbers.exe.config
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\06. Conditional Statements\07. Sort Three Numbers\bin\Debug\_07.Sort_Three_Numbers.exe.config

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\05. Point Class\bin\Debug\_05.Point_Class.exe.config
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\05. Point Class\bin\Debug\_05.Point_Class.exe
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\05. Point Class\bin\Debug\_05.Point_Class.pdb
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\05. Point Class\obj\Debug\_05.Point_Class.exe
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\05. Point Class\obj\Debug\_05.Point_Class.pdb

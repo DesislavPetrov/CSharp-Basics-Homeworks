@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\17. Greatest Common Divisor\bin\Debug\_17.Greatest_Common_Divisor.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\17. Greatest Common Divisor\bin\Debug\_17.Greatest_Common_Divisor.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\17. Greatest Common Divisor\bin\Debug\_17.Greatest_Common_Divisor.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\17. Greatest Common Divisor\obj\Debug\_17.Greatest_Common_Divisor.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\17. Greatest Common Divisor\obj\Debug\_17.Greatest_Common_Divisor.pdb

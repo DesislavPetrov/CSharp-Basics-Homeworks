@@ -1,0 +1,9 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\04. Print Cards Deck\bin\Debug\_04.Print_Cards_Deck.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\04. Print Cards Deck\bin\Debug\_04.Print_Cards_Deck.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\04. Print Cards Deck\bin\Debug\_04.Print_Cards_Deck.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\04. Print Cards Deck\obj\Debug\04. Print Cards Deck.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\04. Print Cards Deck\obj\Debug\_04.Print_Cards_Deck.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\04. Print Cards Deck\obj\Debug\_04.Print_Cards_Deck.pdb
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\07. Loops\04. Print Cards Deck\bin\Debug\_04.Print_Cards_Deck.exe.config
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\07. Loops\04. Print Cards Deck\obj\Debug\_04.Print_Cards_Deck.exe
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\07. Loops\04. Print Cards Deck\obj\Debug\_04.Print_Cards_Deck.pdb

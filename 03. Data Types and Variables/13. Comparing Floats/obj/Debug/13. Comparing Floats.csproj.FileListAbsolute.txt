@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache

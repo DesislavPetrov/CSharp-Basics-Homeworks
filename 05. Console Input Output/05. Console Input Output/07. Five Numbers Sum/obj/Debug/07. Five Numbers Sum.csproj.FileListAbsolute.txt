@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\07. Five Numbers Sum\bin\Debug\_07.Five_Numbers_Sum.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\07. Five Numbers Sum\bin\Debug\_07.Five_Numbers_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\07. Five Numbers Sum\bin\Debug\_07.Five_Numbers_Sum.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\07. Five Numbers Sum\obj\Debug\_07.Five_Numbers_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\07. Five Numbers Sum\obj\Debug\_07.Five_Numbers_Sum.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\14. Student Cables\bin\Debug\_14.Student_Cables.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\14. Student Cables\bin\Debug\_14.Student_Cables.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\14. Student Cables\bin\Debug\_14.Student_Cables.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\14. Student Cables\obj\Debug\_14.Student_Cables.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\14. Student Cables\obj\Debug\_14.Student_Cables.pdb

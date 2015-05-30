@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\09. Numbers Sum\bin\Debug\_09.Numbers_Sum.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\09. Numbers Sum\bin\Debug\_09.Numbers_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\09. Numbers Sum\bin\Debug\_09.Numbers_Sum.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\09. Numbers Sum\obj\Debug\_09.Numbers_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\09. Numbers Sum\obj\Debug\_09.Numbers_Sum.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\09. Numbers Sum\obj\Debug\09. Numbers Sum.csprojResolveAssemblyReference.cache

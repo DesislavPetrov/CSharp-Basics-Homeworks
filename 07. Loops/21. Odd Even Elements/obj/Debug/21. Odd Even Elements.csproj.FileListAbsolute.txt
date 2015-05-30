@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\21. Odd Even Elements\bin\Debug\_21.Odd_Even_Elements.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\21. Odd Even Elements\obj\Debug\21. Odd Even Elements.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\21. Odd Even Elements\bin\Debug\_21.Odd_Even_Elements.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\21. Odd Even Elements\bin\Debug\_21.Odd_Even_Elements.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\21. Odd Even Elements\obj\Debug\_21.Odd_Even_Elements.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\21. Odd Even Elements\obj\Debug\_21.Odd_Even_Elements.pdb

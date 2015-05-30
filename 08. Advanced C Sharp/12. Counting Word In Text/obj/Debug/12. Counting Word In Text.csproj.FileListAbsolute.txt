@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\12. Counting Word In Text\bin\Debug\_12.Counting_Word_In_Text.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\12. Counting Word In Text\bin\Debug\_12.Counting_Word_In_Text.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\12. Counting Word In Text\bin\Debug\_12.Counting_Word_In_Text.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\12. Counting Word In Text\obj\Debug\_12.Counting_Word_In_Text.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\12. Counting Word In Text\obj\Debug\_12.Counting_Word_In_Text.pdb

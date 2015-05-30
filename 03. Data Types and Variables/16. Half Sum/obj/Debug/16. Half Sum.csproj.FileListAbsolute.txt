@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.exe.config
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\16. Half Sum\obj\Debug\_16.Half_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\16. Half Sum\obj\Debug\_16.Half_Sum.pdb

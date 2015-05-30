@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\07. Print Full Name\bin\Debug\_07.Print_Full_Name.exe.config
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\07. Print Full Name\bin\Debug\_07.Print_Full_Name.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\07. Print Full Name\bin\Debug\_07.Print_Full_Name.pdb
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\07. Print Full Name\obj\Debug\_07.Print_Full_Name.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\07. Print Full Name\obj\Debug\_07.Print_Full_Name.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\10. Reformat Code\bin\Debug\_10.Reformat_Code.exe.config
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\10. Reformat Code\bin\Debug\_10.Reformat_Code.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\10. Reformat Code\bin\Debug\_10.Reformat_Code.pdb
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\10. Reformat Code\obj\Debug\_10.Reformat_Code.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\10. Reformat Code\obj\Debug\_10.Reformat_Code.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\03. Min Max Sum Ave\bin\Debug\_03.Min_Max_Sum_Ave.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\03. Min Max Sum Ave\bin\Debug\_03.Min_Max_Sum_Ave.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\03. Min Max Sum Ave\bin\Debug\_03.Min_Max_Sum_Ave.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\03. Min Max Sum Ave\obj\Debug\_03.Min_Max_Sum_Ave.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\03. Min Max Sum Ave\obj\Debug\_03.Min_Max_Sum_Ave.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\03. Min Max Sum Ave\obj\Debug\03. Min Max Sum Ave.csprojResolveAssemblyReference.cache

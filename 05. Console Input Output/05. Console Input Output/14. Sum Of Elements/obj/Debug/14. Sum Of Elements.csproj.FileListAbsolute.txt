@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\14. Sum Of Elements\bin\Debug\_14.Sum_Of_Elements.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\14. Sum Of Elements\bin\Debug\_14.Sum_Of_Elements.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\14. Sum Of Elements\bin\Debug\_14.Sum_Of_Elements.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\14. Sum Of Elements\obj\Debug\_14.Sum_Of_Elements.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\14. Sum Of Elements\obj\Debug\_14.Sum_Of_Elements.pdb

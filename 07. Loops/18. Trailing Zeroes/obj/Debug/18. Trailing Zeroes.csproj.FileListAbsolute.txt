@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\18. Trailing Zeroes\bin\Debug\_18.Trailing_Zeroes.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\18. Trailing Zeroes\bin\Debug\_18.Trailing_Zeroes.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\18. Trailing Zeroes\bin\Debug\_18.Trailing_Zeroes.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\18. Trailing Zeroes\obj\Debug\18. Trailing Zeroes.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\18. Trailing Zeroes\obj\Debug\_18.Trailing_Zeroes.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\18. Trailing Zeroes\obj\Debug\_18.Trailing_Zeroes.pdb

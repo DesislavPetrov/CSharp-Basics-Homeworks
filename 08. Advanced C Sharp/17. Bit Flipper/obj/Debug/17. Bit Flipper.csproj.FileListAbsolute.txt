@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\17. Bit Flipper\bin\Debug\_17.Bit_Flipper.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\17. Bit Flipper\bin\Debug\_17.Bit_Flipper.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\17. Bit Flipper\bin\Debug\_17.Bit_Flipper.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\17. Bit Flipper\obj\Debug\_17.Bit_Flipper.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\17. Bit Flipper\obj\Debug\_17.Bit_Flipper.pdb

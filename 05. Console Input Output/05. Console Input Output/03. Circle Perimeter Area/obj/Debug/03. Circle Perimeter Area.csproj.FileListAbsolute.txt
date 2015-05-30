@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\03. Circle Perimeter Area\bin\Debug\_03.Circle_Perimeter_Area.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\03. Circle Perimeter Area\bin\Debug\_03.Circle_Perimeter_Area.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\03. Circle Perimeter Area\bin\Debug\_03.Circle_Perimeter_Area.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\03. Circle Perimeter Area\obj\Debug\_03.Circle_Perimeter_Area.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\03. Circle Perimeter Area\obj\Debug\_03.Circle_Perimeter_Area.pdb

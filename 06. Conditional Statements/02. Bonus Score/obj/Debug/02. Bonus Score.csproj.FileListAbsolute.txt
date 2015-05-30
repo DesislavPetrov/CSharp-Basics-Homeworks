@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe.config
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\02. Bonus Score\bin\Debug\_02.Bonus_Score.pdb
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\02. Bonus Score\obj\Debug\_02.Bonus_Score.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\02. Bonus Score\obj\Debug\_02.Bonus_Score.pdb

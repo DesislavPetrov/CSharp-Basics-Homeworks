@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\08. Square Root\bin\Debug\_08.Square_Root.exe.config
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\08. Square Root\bin\Debug\_08.Square_Root.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\08. Square Root\bin\Debug\_08.Square_Root.pdb
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\08. Square Root\obj\Debug\_08.Square_Root.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\08. Square Root\obj\Debug\_08.Square_Root.pdb

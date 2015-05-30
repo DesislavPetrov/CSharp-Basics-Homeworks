@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\01. Sorting Numbers\bin\Debug\_01.Sorting_Numbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\01. Sorting Numbers\obj\Debug\01. Sorting Numbers.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\01. Sorting Numbers\bin\Debug\_01.Sorting_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\01. Sorting Numbers\bin\Debug\_01.Sorting_Numbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\01. Sorting Numbers\obj\Debug\_01.Sorting_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\01. Sorting Numbers\obj\Debug\_01.Sorting_Numbers.pdb

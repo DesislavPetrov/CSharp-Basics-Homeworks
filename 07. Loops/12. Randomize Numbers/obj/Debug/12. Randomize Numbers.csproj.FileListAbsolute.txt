@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\12. Randomize Numbers\bin\Debug\_12.Randomize_Numbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\12. Randomize Numbers\bin\Debug\_12.Randomize_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\12. Randomize Numbers\bin\Debug\_12.Randomize_Numbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\12. Randomize Numbers\obj\Debug\_12.Randomize_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\12. Randomize Numbers\obj\Debug\_12.Randomize_Numbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\12. Randomize Numbers\obj\Debug\12. Randomize Numbers.csprojResolveAssemblyReference.cache

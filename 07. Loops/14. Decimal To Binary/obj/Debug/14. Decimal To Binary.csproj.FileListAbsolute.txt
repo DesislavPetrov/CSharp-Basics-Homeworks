@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\14. Decimal To Binary\bin\Debug\_14.Decimal_To_Binary.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\14. Decimal To Binary\bin\Debug\_14.Decimal_To_Binary.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\14. Decimal To Binary\bin\Debug\_14.Decimal_To_Binary.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\14. Decimal To Binary\obj\Debug\_14.Decimal_To_Binary.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\14. Decimal To Binary\obj\Debug\_14.Decimal_To_Binary.pdb

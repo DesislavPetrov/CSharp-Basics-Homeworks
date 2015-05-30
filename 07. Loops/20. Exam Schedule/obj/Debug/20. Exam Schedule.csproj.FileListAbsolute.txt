@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\20. Exam Schedule\bin\Debug\_20.Exam_Schedule.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\20. Exam Schedule\bin\Debug\_20.Exam_Schedule.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\20. Exam Schedule\bin\Debug\_20.Exam_Schedule.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\20. Exam Schedule\obj\Debug\_20.Exam_Schedule.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\20. Exam Schedule\obj\Debug\_20.Exam_Schedule.pdb

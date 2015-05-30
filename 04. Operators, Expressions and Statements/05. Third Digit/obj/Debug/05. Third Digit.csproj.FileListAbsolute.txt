@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\05. Third Digit\bin\Debug\_05.Third_Digit.exe.config
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\05. Third Digit\bin\Debug\_05.Third_Digit.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\05. Third Digit\bin\Debug\_05.Third_Digit.pdb
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\05. Third Digit\obj\Debug\05. Third Digit.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\05. Third Digit\obj\Debug\_05.Third_Digit.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\05. Third Digit\obj\Debug\_05.Third_Digit.pdb

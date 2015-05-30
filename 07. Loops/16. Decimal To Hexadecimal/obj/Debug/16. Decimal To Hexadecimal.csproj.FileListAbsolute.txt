@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\16. Decimal To Hexadecimal\bin\Debug\_16.Decimal_To_Hexadecimal.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\16. Decimal To Hexadecimal\bin\Debug\_16.Decimal_To_Hexadecimal.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\16. Decimal To Hexadecimal\bin\Debug\_16.Decimal_To_Hexadecimal.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\16. Decimal To Hexadecimal\obj\Debug\_16.Decimal_To_Hexadecimal.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\16. Decimal To Hexadecimal\obj\Debug\_16.Decimal_To_Hexadecimal.pdb

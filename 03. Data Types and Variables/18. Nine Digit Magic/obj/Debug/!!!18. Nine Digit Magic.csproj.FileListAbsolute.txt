@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\18. Nine Digit Magic\bin\Debug\_18.Nine_Digit_Magic.exe.config
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\18. Nine Digit Magic\bin\Debug\_18.Nine_Digit_Magic.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\18. Nine Digit Magic\bin\Debug\_18.Nine_Digit_Magic.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\18. Nine Digit Magic\obj\Debug\!!!18. Nine Digit Magic.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\18. Nine Digit Magic\obj\Debug\_18.Nine_Digit_Magic.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\18. Nine Digit Magic\obj\Debug\_18.Nine_Digit_Magic.pdb

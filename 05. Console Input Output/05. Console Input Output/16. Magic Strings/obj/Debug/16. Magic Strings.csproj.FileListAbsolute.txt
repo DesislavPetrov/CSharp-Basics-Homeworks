@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\16. Magic Strings\bin\Debug\_16.Magic_Strings.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\16. Magic Strings\bin\Debug\_16.Magic_Strings.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\16. Magic Strings\bin\Debug\_16.Magic_Strings.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\16. Magic Strings\obj\Debug\_16.Magic_Strings.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\16. Magic Strings\obj\Debug\_16.Magic_Strings.pdb

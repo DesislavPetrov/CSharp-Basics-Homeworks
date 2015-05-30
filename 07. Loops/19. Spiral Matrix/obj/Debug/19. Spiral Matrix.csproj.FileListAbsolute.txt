@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\19. Spiral Matrix\bin\Debug\_19.Spiral_Matrix.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\19. Spiral Matrix\bin\Debug\_19.Spiral_Matrix.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\19. Spiral Matrix\bin\Debug\_19.Spiral_Matrix.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\19. Spiral Matrix\obj\Debug\_19.Spiral_Matrix.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\19. Spiral Matrix\obj\Debug\_19.Spiral_Matrix.pdb

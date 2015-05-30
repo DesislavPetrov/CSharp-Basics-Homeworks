@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\16. Magic Car Numbers\bin\Debug\_16.Magic_Car_Numbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\16. Magic Car Numbers\bin\Debug\_16.Magic_Car_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\16. Magic Car Numbers\bin\Debug\_16.Magic_Car_Numbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\16. Magic Car Numbers\obj\Debug\_16.Magic_Car_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\16. Magic Car Numbers\obj\Debug\_16.Magic_Car_Numbers.pdb

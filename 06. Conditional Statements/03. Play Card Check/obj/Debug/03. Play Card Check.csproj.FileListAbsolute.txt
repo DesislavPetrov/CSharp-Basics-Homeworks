@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\03. Play Card Check\bin\Debug\_03.Play_Card_Check.exe.config
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\03. Play Card Check\bin\Debug\_03.Play_Card_Check.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\03. Play Card Check\bin\Debug\_03.Play_Card_Check.pdb
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\03. Play Card Check\obj\Debug\_03.Play_Card_Check.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\03. Play Card Check\obj\Debug\_03.Play_Card_Check.pdb
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\03. Play Card Check\obj\Debug\03. Play Card Check.csprojResolveAssemblyReference.cache

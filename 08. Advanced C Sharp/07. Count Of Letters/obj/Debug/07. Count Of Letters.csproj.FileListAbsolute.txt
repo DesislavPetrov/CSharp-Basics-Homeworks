@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\07. Count Of Letters\bin\Debug\_07.Count_Of_Letters.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\07. Count Of Letters\bin\Debug\_07.Count_Of_Letters.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\07. Count Of Letters\bin\Debug\_07.Count_Of_Letters.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\07. Count Of Letters\obj\Debug\07. Count Of Letters.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\07. Count Of Letters\obj\Debug\_07.Count_Of_Letters.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\07. Count Of Letters\obj\Debug\_07.Count_Of_Letters.pdb

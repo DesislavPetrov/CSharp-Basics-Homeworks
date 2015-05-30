@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\03. Matrix Of Palindromes\bin\Debug\_03.Matrix_Of_Palindromes.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\03. Matrix Of Palindromes\bin\Debug\_03.Matrix_Of_Palindromes.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\03. Matrix Of Palindromes\bin\Debug\_03.Matrix_Of_Palindromes.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\03. Matrix Of Palindromes\obj\Debug\_03.Matrix_Of_Palindromes.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\03. Matrix Of Palindromes\obj\Debug\_03.Matrix_Of_Palindromes.pdb

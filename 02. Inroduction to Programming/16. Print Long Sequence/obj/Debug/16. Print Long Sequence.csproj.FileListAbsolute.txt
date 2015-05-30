@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\16. Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.exe.config
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\16. Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\16. Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.pdb
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\16. Print Long Sequence\obj\Debug\_16.Print_Long_Sequence.exe
+D:\SkyDrive\SoftUni\Homeworks\02. Inroduction to Programming\16. Print Long Sequence\obj\Debug\_16.Print_Long_Sequence.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\15. Programmer DNA\bin\Debug\_15.Programmer_DNA.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\15. Programmer DNA\bin\Debug\_15.Programmer_DNA.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\15. Programmer DNA\bin\Debug\_15.Programmer_DNA.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\15. Programmer DNA\obj\Debug\_15.Programmer_DNA.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\15. Programmer DNA\obj\Debug\_15.Programmer_DNA.pdb

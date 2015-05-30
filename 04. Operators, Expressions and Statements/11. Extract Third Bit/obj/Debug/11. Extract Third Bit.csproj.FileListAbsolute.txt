@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\11. Extract Third Bit\bin\Debug\_11.Extract_Third_Bit.exe.config
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\11. Extract Third Bit\bin\Debug\_11.Extract_Third_Bit.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\11. Extract Third Bit\bin\Debug\_11.Extract_Third_Bit.pdb
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\11. Extract Third Bit\obj\Debug\_11.Extract_Third_Bit.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\11. Extract Third Bit\obj\Debug\_11.Extract_Third_Bit.pdb

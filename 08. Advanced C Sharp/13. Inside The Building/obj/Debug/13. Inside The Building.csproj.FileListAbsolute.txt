@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\13. Inside The Building\bin\Debug\_13.Inside_The_Building.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\13. Inside The Building\bin\Debug\_13.Inside_The_Building.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\13. Inside The Building\bin\Debug\_13.Inside_The_Building.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\13. Inside The Building\obj\Debug\_13.Inside_The_Building.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\13. Inside The Building\obj\Debug\_13.Inside_The_Building.pdb

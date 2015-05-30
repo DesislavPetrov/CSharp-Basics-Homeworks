@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

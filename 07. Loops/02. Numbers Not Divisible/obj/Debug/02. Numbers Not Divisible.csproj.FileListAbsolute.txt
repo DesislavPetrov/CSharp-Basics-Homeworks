@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\02. Numbers Not Divisible\bin\Debug\_02.Numbers_Not_Divisible.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\02. Numbers Not Divisible\bin\Debug\_02.Numbers_Not_Divisible.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\02. Numbers Not Divisible\bin\Debug\_02.Numbers_Not_Divisible.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\02. Numbers Not Divisible\obj\Debug\_02.Numbers_Not_Divisible.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\02. Numbers Not Divisible\obj\Debug\_02.Numbers_Not_Divisible.pdb

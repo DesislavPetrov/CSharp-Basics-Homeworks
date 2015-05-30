@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\06. PerimeterAndAreaPolygon\bin\Debug\_06.PerimeterAndAreaPolygon.exe.config
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\06. PerimeterAndAreaPolygon\bin\Debug\_06.PerimeterAndAreaPolygon.exe
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\06. PerimeterAndAreaPolygon\bin\Debug\_06.PerimeterAndAreaPolygon.pdb
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\06. PerimeterAndAreaPolygon\obj\Debug\_06.PerimeterAndAreaPolygon.exe
+D:\SkyDrive\SoftUni\Homeworks\09. Advanced C Sharp 2\06. PerimeterAndAreaPolygon\obj\Debug\_06.PerimeterAndAreaPolygon.pdb

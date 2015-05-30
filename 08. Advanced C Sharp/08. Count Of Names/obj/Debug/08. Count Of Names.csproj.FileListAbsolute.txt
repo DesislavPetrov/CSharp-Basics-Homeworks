@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\08. Count Of Names\bin\Debug\_08.Count_Of_Names.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\08. Count Of Names\bin\Debug\_08.Count_Of_Names.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\08. Count Of Names\bin\Debug\_08.Count_Of_Names.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\08. Count Of Names\obj\Debug\_08.Count_Of_Names.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\08. Count Of Names\obj\Debug\_08.Count_Of_Names.pdb

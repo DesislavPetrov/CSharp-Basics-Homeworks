@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\15. New House\bin\Debug\_15.New_House.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\15. New House\bin\Debug\_15.New_House.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\15. New House\bin\Debug\_15.New_House.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\15. New House\obj\Debug\_15.New_House.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\15. New House\obj\Debug\_15.New_House.pdb

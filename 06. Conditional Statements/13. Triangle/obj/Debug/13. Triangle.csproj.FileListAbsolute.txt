@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.exe.config
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.pdb
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\13. Triangle\obj\Debug\_13.Triangle.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\13. Triangle\obj\Debug\_13.Triangle.pdb

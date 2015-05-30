@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\08. Numbers One To N\bin\Debug\_08.Numbers_One_To_N.exe.config
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\08. Numbers One To N\bin\Debug\_08.Numbers_One_To_N.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\08. Numbers One To N\bin\Debug\_08.Numbers_One_To_N.pdb
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\08. Numbers One To N\obj\Debug\_08.Numbers_One_To_N.exe
+D:\SkyDrive\SoftUni\Homeworks\05. Console Input Output\05. Console Input Output\08. Numbers One To N\obj\Debug\_08.Numbers_One_To_N.pdb

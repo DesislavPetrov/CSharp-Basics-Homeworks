@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\10. Longest Word In Text\bin\Debug\_10.Longest_Word_In_Text.exe.config
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\10. Longest Word In Text\bin\Debug\_10.Longest_Word_In_Text.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\10. Longest Word In Text\bin\Debug\_10.Longest_Word_In_Text.pdb
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\10. Longest Word In Text\obj\Debug\10. Longest Word In Text.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\10. Longest Word In Text\obj\Debug\_10.Longest_Word_In_Text.exe
+D:\SkyDrive\SoftUni\Homeworks\08. Advanced C Sharp\10. Longest Word In Text\obj\Debug\_10.Longest_Word_In_Text.pdb

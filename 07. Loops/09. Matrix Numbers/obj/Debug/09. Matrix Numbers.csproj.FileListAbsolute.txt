@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\09. Matrix Numbers\bin\Debug\_09.Matrix_Numbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\09. Matrix Numbers\bin\Debug\_09.Matrix_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\09. Matrix Numbers\bin\Debug\_09.Matrix_Numbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\09. Matrix Numbers\obj\Debug\_09.Matrix_Numbers.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\09. Matrix Numbers\obj\Debug\_09.Matrix_Numbers.pdb

@@ -1,0 +1,9 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\01. NumbersOneToN\bin\Debug\_01.NumbersOneToN.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\01. NumbersOneToN\obj\Debug\01. NumbersOneToN.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\01. NumbersOneToN\bin\Debug\_01.NumbersOneToN.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\01. NumbersOneToN\bin\Debug\_01.NumbersOneToN.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\01. NumbersOneToN\obj\Debug\_01.NumbersOneToN.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\01. NumbersOneToN\obj\Debug\_01.NumbersOneToN.pdb
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\07. Loops\01. NumbersOneToN\bin\Debug\_01.NumbersOneToN.exe.config
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\07. Loops\01. NumbersOneToN\obj\Debug\_01.NumbersOneToN.exe
+D:\SkyDrive\SoftUni\C# Basics\Homeworks\07. Loops\01. NumbersOneToN\obj\Debug\_01.NumbersOneToN.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\22. Arrow\bin\Debug\_22.Arrow.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\22. Arrow\bin\Debug\_22.Arrow.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\22. Arrow\bin\Debug\_22.Arrow.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\22. Arrow\obj\Debug\_22.Arrow.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\22. Arrow\obj\Debug\_22.Arrow.pdb

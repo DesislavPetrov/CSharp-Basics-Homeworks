@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\11. Number As Word\bin\Debug\_11.Number_As_Word.exe.config
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\11. Number As Word\bin\Debug\_11.Number_As_Word.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\11. Number As Word\bin\Debug\_11.Number_As_Word.pdb
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\11. Number As Word\obj\Debug\_11.Number_As_Word.exe
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\11. Number As Word\obj\Debug\_11.Number_As_Word.pdb
+D:\SkyDrive\SoftUni\Homeworks\06. Conditional Statements\11. Number As Word\obj\Debug\11. Number As Word.csprojResolveAssemblyReference.cache

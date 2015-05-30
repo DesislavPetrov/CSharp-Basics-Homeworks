@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe.config
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.pdb
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.pdb

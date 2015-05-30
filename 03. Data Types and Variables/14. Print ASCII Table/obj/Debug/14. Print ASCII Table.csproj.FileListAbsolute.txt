@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\14. Print ASCII Table\bin\Debug\_14.Print_ASCII_Table.exe.config
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\14. Print ASCII Table\bin\Debug\_14.Print_ASCII_Table.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\14. Print ASCII Table\bin\Debug\_14.Print_ASCII_Table.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\14. Print ASCII Table\obj\Debug\_14.Print_ASCII_Table.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\14. Print ASCII Table\obj\Debug\_14.Print_ASCII_Table.pdb

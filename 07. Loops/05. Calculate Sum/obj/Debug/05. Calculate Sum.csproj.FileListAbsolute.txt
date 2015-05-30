@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\05. Calculate Sum\bin\Debug\_05.Calculate_Sum.exe.config
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\05. Calculate Sum\bin\Debug\_05.Calculate_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\05. Calculate Sum\bin\Debug\_05.Calculate_Sum.pdb
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\05. Calculate Sum\obj\Debug\_05.Calculate_Sum.exe
+D:\SkyDrive\SoftUni\Homeworks\07. Loops\05. Calculate Sum\obj\Debug\_05.Calculate_Sum.pdb

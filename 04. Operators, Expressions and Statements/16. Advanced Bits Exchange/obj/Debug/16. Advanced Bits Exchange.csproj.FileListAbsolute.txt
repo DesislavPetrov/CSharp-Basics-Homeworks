@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\16. Advanced Bits Exchange\bin\Debug\_16.Advanced_Bits_Exchange.exe.config
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\16. Advanced Bits Exchange\bin\Debug\_16.Advanced_Bits_Exchange.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\16. Advanced Bits Exchange\bin\Debug\_16.Advanced_Bits_Exchange.pdb
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\16. Advanced Bits Exchange\obj\Debug\16. Advanced Bits Exchange.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\16. Advanced Bits Exchange\obj\Debug\_16.Advanced_Bits_Exchange.exe
+D:\SkyDrive\SoftUni\Homeworks\04. Operators, Expressions and Statements\16. Advanced Bits Exchange\obj\Debug\_16.Advanced_Bits_Exchange.pdb

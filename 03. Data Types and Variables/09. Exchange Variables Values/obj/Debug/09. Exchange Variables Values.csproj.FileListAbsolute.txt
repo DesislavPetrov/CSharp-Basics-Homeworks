@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\09. Exchange Variables Values\bin\Debug\_09.Exchange_Variables_Values.exe.config
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\09. Exchange Variables Values\bin\Debug\_09.Exchange_Variables_Values.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\09. Exchange Variables Values\bin\Debug\_09.Exchange_Variables_Values.pdb
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\09. Exchange Variables Values\obj\Debug\_09.Exchange_Variables_Values.exe
+D:\SkyDrive\SoftUni\Homeworks\03. Data Types and Variables\09. Exchange Variables Values\obj\Debug\_09.Exchange_Variables_Values.pdb
